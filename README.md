@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **react,Sinatra**
+- 💬 Ask me about **react,Rails**
 
 - 📫 How to reach me **justkyalo99@gmail.com**
 
