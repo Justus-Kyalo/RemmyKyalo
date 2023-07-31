@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justus Kyalo</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **TypeScript** <img height = "40px" width = "40px" align= "center" background= "none" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"/>
+- 🌱 I’m currently learning **TypeScript** <a href ="https://www.typescriptlang.org/"> <img height = "40px" width = "40px" align= "center"  src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"/></a>
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 💬 Ask me about **react,Rails**
