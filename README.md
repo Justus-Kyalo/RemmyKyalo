@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justus Kyalo</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
